@@ -1,0 +1,5 @@
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\SearchProvider\bin\Debug\SearchProvider.dll
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\SearchProvider\bin\Debug\SearchProvider.pdb
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\SearchProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\SearchProvider\obj\Debug\SearchProvider.dll
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\SearchProvider\obj\Debug\SearchProvider.pdb

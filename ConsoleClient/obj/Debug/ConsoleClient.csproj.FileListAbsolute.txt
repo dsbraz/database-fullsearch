@@ -1,0 +1,7 @@
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\ConsoleClient\bin\Debug\SearchProvider.dll
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\ConsoleClient\bin\Debug\SearchProvider.pdb
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\ConsoleClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\daniel.braz\Projetos\Imago\Tools\DatabaseFullSearch\ConsoleClient\obj\Debug\ConsoleClient.pdb

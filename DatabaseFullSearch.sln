@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchProvider", "SearchProvider\SearchProvider.csproj", "{C30AF856-0CBF-4BF9-853E-5465F81B0FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{72980A7A-8827-4C80-9DF0-2AB60C5CA80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30AF856-0CBF-4BF9-853E-5465F81B0FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30AF856-0CBF-4BF9-853E-5465F81B0FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30AF856-0CBF-4BF9-853E-5465F81B0FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30AF856-0CBF-4BF9-853E-5465F81B0FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72980A7A-8827-4C80-9DF0-2AB60C5CA80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72980A7A-8827-4C80-9DF0-2AB60C5CA80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72980A7A-8827-4C80-9DF0-2AB60C5CA80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72980A7A-8827-4C80-9DF0-2AB60C5CA80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
